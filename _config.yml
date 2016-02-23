@@ -1,6 +1,6 @@
 name: morphicsentient
 favicon: null
-layout_spectrum: 0.5543530930299312
+layout_spectrum: 0.37318
 typography_spectrum: 0.8252670059446245
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.06381153431721032
-  lightness: 0.9926336880307645
+    - '#feffff'
+    - '#0a0809'
+    - '#ff9eff'
+    - '#fd395d'
+    - '#788efb'
+  brandStrength: 0.625
+  lightness: 0.8125
   saturation: 0.3458567764610052
   rhythmicContrast: 0.09822013694792986
 purpose: []
